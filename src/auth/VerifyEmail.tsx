@@ -33,7 +33,7 @@ const VerifyEmail = () => {
                                 maxLength={1}
                                 value={letter}
                                 onChange={(e:React.ChangeEvent<HTMLInputElement>) => handleChange(idx, e.target.value)}
-                                className="md:w-12 md:h-12 w-8 h-8 text-center text-sm md:text-2xl font-normal md:font-bold rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-400"
+                                className="md:w-12 md:h-12 w-8 h-8 text-center text-sm md:text-2xl font-normal md:font-bold rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-500"
                                 />
                             ))
                         }

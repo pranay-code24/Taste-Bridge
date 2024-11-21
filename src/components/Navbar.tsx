@@ -110,7 +110,7 @@ const MobileNavbar = () => {
             </SheetTrigger>
             <SheetContent className="flex flex-col">
                 <SheetHeader className="flex flex-row items-center justify-between mt-2">
-                    <SheetTitle>Taste Bridge</SheetTitle>
+                    <SheetTitle>TasteBridge</SheetTitle>
                     <DropdownMenu>
                         <DropdownMenuTrigger asChild>
                             <Button variant="outline" size="icon">
